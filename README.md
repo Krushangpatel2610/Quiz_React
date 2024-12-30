@@ -1,4 +1,4 @@
-# React Quiz Application
+# Quiz_React
 
 ## Description
 This is a simple React quiz application that allows users to answer multiple-choice questions. The application provides immediate feedback on whether the selected answers are correct or wrong.
@@ -14,12 +14,12 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Krushangpatel2610/Quiz_React.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd Quiz_React
    ```
 
 3. Install the dependencies:
